@@ -1,4 +1,4 @@
-# Python Round Robin Process Scheduler Simulator
+# Round Robin Process Scheduling Algorithm Simulator in Python
 
 This project simulates a Round Robin Process Scheduler depending on the user input.
 The user inputs the number of processes, quantum time, and context-switch time. 
